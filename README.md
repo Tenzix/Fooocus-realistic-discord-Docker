@@ -38,5 +38,4 @@ Before running the container, ensure you set the following environment variables
 The Dockerfile downloads several pre-trained models required for running Fooocus. The models are downloaded from various sources, including Hugging Face and external URLs. Ensure you have enough available disk space to store these models.
 
 # Easy deploy on Rundpod template 
-[Click and run]([url](https://runpod.io?ref=19ex0x7p)https://runpod.io?ref=19ex0x7p)
-
+Click and run 🚀 https://runpod.io?ref=19ex0x7p
