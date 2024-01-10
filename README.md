@@ -39,3 +39,8 @@ The Dockerfile downloads several pre-trained models required for running Fooocus
 
 # Easy deploy on Rundpod template 
 Click and run 🚀 https://runpod.io?ref=19ex0x7p
+
+Install & run this in your web terminal when container is ready, and get the web url 🔗
+```
+python entry_with_update.py --preset realistic --share
+```
